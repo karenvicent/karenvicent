@@ -5,9 +5,12 @@
 const karenvicent = {
   pronoums: "she" | "her",
   code: [JavaScript, Python, HTML5, CSS],
-  tools: [React, Flask]
+  tools: [React, Flask, SQL Alchemy]
   }
   ```
+  
+  I'm a Full-Stack Developer based in Brooklyn, New York.
+
 <!--
 **karenvicent/karenvicent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
