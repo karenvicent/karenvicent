@@ -9,7 +9,13 @@ const karenvicent = {
   }
   ```
   
-  I'm a Full-Stack Developer based in Brooklyn, New York.
+  ### ABOUT ME
+  
+  - 🇨🇴 I'm from Colombia
+  - 👩🏼‍💻 I love programming 
+  - 📚 I'm studying React and Python
+  - 🔭 I'm currently working as a freelance developer
+  - 💜 Interests: series, foodie, dogs 🐶 
 
 <!--
 **karenvicent/karenvicent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
