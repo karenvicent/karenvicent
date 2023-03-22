@@ -1,5 +1,13 @@
 ### Hi, I'm Karen 👋
 ![Dark Purple Modern Twitter Header](https://user-images.githubusercontent.com/102065528/227028180-67c0ad01-c436-4322-83e8-3b069395971f.jpg)
+
+```js
+const karenvicent = {
+  pronoums: "she" | "her",
+  code: [JavaScript, Python, HTML5, CSS],
+  tools: [React, Flask]
+  }
+  ```
 <!--
 **karenvicent/karenvicent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
